@@ -4,7 +4,7 @@ Run a callback on errors in your rollup build
 
 ## Installation
 ```
-npm i -D rollup-plugin-onerror`
+npm i -D rollup-plugin-onerror
 ```
 
 ## Usage
