@@ -1,0 +1,26 @@
+{
+  "name": "rollup-plugin-onerror",
+  "version": "1.0.0",
+  "description": "Run callback on errors in your rollup build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashubham/rollup-plugin-onerror.git"
+  },
+  "keywords": [
+    "rollup",
+    "plugin",
+    "onerror",
+    "error",
+    "failure"
+  ],
+  "author": "ashubham@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashubham/rollup-plugin-onerror/issues"
+  },
+  "homepage": "https://github.com/ashubham/rollup-plugin-onerror#readme"
+}
