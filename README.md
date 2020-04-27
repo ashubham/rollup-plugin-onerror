@@ -1,4 +1,5 @@
 # rollup-plugin-onerror
+<a href="https://badge.fury.io/js/rollup-plugin-onerror"><img src="https://badge.fury.io/js/rollup-plugin-onerror.svg" alt="npm version" height="18"></a>
 Run a callback on errors in your rollup build
 
 ## Installation
